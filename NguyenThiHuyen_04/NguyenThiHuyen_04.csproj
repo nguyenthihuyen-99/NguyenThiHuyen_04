@@ -143,6 +143,7 @@
       <DependentUpon>202106060830166_Create_Table_NhanVien.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Account.cs" />
     <Compile Include="Models\AccountModel.cs" />
     <Compile Include="Models\LTQLDb.cs" />
     <Compile Include="Models\NhanVien.cs" />
